@@ -6,6 +6,6 @@ so I felt it was necessary to have a program pull data so that we could make a d
 The OES5.py program pulls data from the Occupational Employment Statistics branch of BLS and calculates how much employment is concentrated
 in the top 5 employing cities for each of the 820 detailed occupations. This gave us an idea of how many occupations
 would be improved from the addition of more localized data, as the national level picture we painted could be 
-misleading. 
+misleading for some occupations. 
 
 My team was able to get it's final proposal approved and the state and local data will be added soon.
